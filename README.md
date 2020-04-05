@@ -26,6 +26,7 @@ This web application is created to answer queries of students who want to pursue
 This web application will serve as a ‘Quora’ Platform to answer queries related to Higher Education
 Our intelligent chatbot will help you in this regard.
 
+
 🔦 Any other specific thing you want to highlight?
 With more time, we plan to increase the functionality of our web application.
 We plan to make our bot more intelligent and responsive to cater to our user needs.
